@@ -1,0 +1,9 @@
+Batch,Product,Units_Produced,Defective_Units,Production_Time_Hours
+1,Beaker,500,12,5
+2,Flask,450,15,4.8
+3,Test Tube,600,20,6
+4,Beaker,520,10,5.1
+5,Flask,470,18,5
+6,Test Tube,610,25,6.2
+7,Beaker,530,11,5.2
+8,Flask,460,16,4.9
